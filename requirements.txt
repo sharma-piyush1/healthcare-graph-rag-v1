@@ -1,0 +1,24 @@
+# Graph and Vector Databases
+neo4j==5.18.0
+qdrant-client==1.8.2
+
+# Orchestration & LLM Engine
+langchain-core==0.1.41
+langchain-community==0.0.31
+langchain-groq==0.1.1
+langgraph==0.0.30
+
+# Embeddings
+sentence-transformers>=2.7.0
+
+# Structured Outputs & Environment Variables
+pydantic==2.6.4
+python-dotenv==1.0.1
+
+# Evaluation Framework
+ragas==0.1.5
+datasets>=2.19.0
+
+# Frontend & Visualization
+streamlit>=1.34.0
+streamlit-agraph>=0.0.45
