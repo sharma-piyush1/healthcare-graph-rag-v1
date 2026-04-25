@@ -1,5 +1,8 @@
 # ⚕️ Clinical Graph-RAG System
 
+## Streamlit app link:
+https://healthcare-graph-rag-v1.streamlit.app/
+
 This repository contains the Minimum Viable Product (MVP) for a deterministic, factually-grounded medical assistant. The architecture is designed to eliminate Large Language Model (LLM) hallucinations in clinical settings by enforcing strict, multi-hop graph retrieval before generating responses.
 
 ## Architecture Overview
